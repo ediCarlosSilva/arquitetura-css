@@ -1,0 +1,10 @@
+.rodape {
+    background-color: #bfbfbf;
+    color: white;
+    font-family: Roboto, 'sans-serif';
+    font-size: 1.3rem;
+    font-weight: 400;
+    padding: 1.5625rem 5rem;
+    text-align: right;
+    text-transform: lowercase;
+}
